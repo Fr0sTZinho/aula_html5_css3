@@ -1,0 +1,12 @@
+body {
+    background: rgb(156, 88, 88);
+    margin-left:20px;
+}
+
+h1{
+    color: rgb(12, 8, 8);
+    font-family:fantasy;
+}
+.img_padrao{
+    margin-bottom: 20px;
+}
